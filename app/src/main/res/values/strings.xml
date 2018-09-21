@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwitterSearches</string>
+    <string name="search">Enter Twitter search query here</string>
+    <string name="tag">Tagged Searches</string>
+</resources>
